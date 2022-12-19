@@ -1,5 +1,5 @@
 # 💫 About Me:
-Front-end Developer Computer enthusiast since childhood. <br>I have various experience in the tech field, such as photo editing and sound design. <br>Currently I am working for TUI Musement.
+Front-end Developer Computer enthusiast since childhood. <br>I have various experience in the tech field, such as photo editing and sound design. <br>Currently I am working for TUI Musement as Software Engineer.
 
 
 ## 🌐 Socials:
